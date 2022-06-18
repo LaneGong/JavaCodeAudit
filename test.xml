@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <stu>
+        <name>xxx</name>
+        <year>20</year>
+    </stu>
+    <stu1>
+        <name>yyy</name>
+        <year>18</year>
+    </stu1>
+</root>
